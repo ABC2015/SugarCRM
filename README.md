@@ -1,2 +1,0 @@
-# SugarCRM
-SugarCRM LivePerson Bot
